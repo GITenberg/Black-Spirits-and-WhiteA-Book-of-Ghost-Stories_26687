@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3618
     wikipedia: http://en.wikipedia.org/wiki/Ralph_Adams_Cram
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26687#Black-Spirits-and-WhiteA-Book-of-Ghost-Stories
 gutenberg_issued: '2008-09-22'
 gutenberg_type: Text
 identifiers:
